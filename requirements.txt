@@ -1,0 +1,8 @@
+numpy>=1.22
+pandas>=1.4
+scipy>=1.8
+scikit-learn>=1.1
+networkx>=2.8
+gensim>=4.3
+scanpy>=1.9
+pytest>=7.0

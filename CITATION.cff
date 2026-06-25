@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use AGREE, please cite the associated manuscript after publication."
+title: "AGREE: spatial transcriptomics ensemble consensus clustering"
+authors:
+  - name: "CSUBioGroup"
+version: "0.1.0"
+date-released: "2026-06-25"
+repository-code: "https://github.com/CSUBioGroup/AGREE"
+license: "MIT"
+preferred-citation:
+  type: article
+  title: "AGREE: spatial transcriptomics ensemble consensus clustering"
+  authors:
+    - name: "CSUBioGroup"
+  year: 2026
+  journal: "To be announced"

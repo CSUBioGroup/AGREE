@@ -1,0 +1,25 @@
+.gland_reference/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Local data and generated outputs
+Data/**/*.h5ad
+Data/**/*.h5
+Data/**/*.loom
+Data/**/*.csv
+Data/**/*.tsv
+Data/**/*.npz
+Data/**/*.npy
+results/*
+!results/.gitkeep
+outputs/
+figures/
+
+# Keep repository placeholders
+!Data/README.md
