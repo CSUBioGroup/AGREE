@@ -1,10 +1,11 @@
 # AGREE
 
-AGREE is a spatial transcriptomics ensemble consensus clustering model. It
-integrates multiple base spatial-domain partitions by constructing a weighted
-cluster association graph, learning cluster embeddings with DeepWalk, projecting
-cluster evidence back to spots/cells, and optionally refining labels with local
-spatial consensus.
+AGREE (Aggregated Graph-based Refinement for Enhanced Ensemble Clustering in
+Spatial Transcriptomics) is a spatial transcriptomics ensemble consensus
+clustering model. It integrates multiple base spatial-domain partitions by
+constructing a weighted cluster association graph, learning cluster embeddings
+with DeepWalk, projecting cluster evidence back to spots/cells, and optionally
+refining labels with local spatial consensus.
 
 This repository is organized as the companion code for the AGREE manuscript.
 Items such as the final paper title, public data DOI, and formal citation will
